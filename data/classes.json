@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Warrior",
+    "modifiers": {
+      "hp": 20,
+      "mp": 0,
+      "atk": 5,
+      "def": 5,
+      "spc": 0,
+      "spd": 0
+    }
+  },
+  {
+    "name": "Mage",
+    "modifiers": {
+      "hp": 0,
+      "mp": 30,
+      "atk": -2,
+      "def": 0,
+      "spc": 8,
+      "spd": 0
+    }
+  },
+  {
+    "name": "Rogue",
+    "modifiers": {
+      "hp": 5,
+      "mp": 10,
+      "atk": 3,
+      "def": -1,
+      "spc": 2,
+      "spd": 6
+    }
+  }
+]

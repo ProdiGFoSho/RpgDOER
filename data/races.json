@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Human",
+    "stats": {
+      "hp": 100,
+      "mp": 50,
+      "atk": 10,
+      "def": 10,
+      "spc": 10,
+      "spd": 10
+    }
+  },
+  {
+    "name": "Elf",
+    "stats": {
+      "hp": 80,
+      "mp": 80,
+      "atk": 7,
+      "def": 8,
+      "spc": 15,
+      "spd": 12
+    }
+  },
+  {
+    "name": "Lupine",
+    "stats": {
+      "hp": 120,
+      "mp": 30,
+      "atk": 12,
+      "def": 14,
+      "spc": 6,
+      "spd": 6
+    }
+  }
+]
