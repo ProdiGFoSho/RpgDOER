@@ -18,9 +18,9 @@ The prototype uses a predefined character and fixed race/class selections. Users
 
 ## Requirements
 
-- Windows 11
-- Rust 1.xx.x
-- Cargo
+- Windows 10/11
+- Rust 1.96.0
+- Cargo 1.96.0
 
 ## Build
 
