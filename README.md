@@ -22,9 +22,10 @@ The prototype uses a predefined character and fixed race/class selections. Users
 - Rust 1.96.0
 - Cargo 1.96.0
 
-## Build
+## Build & Run
 
 Clone the repository and run:
 
 ```bash
 cargo build
+cargo run
