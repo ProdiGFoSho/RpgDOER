@@ -13,6 +13,9 @@ The POC demonstrates:
 - Automatic stat calculation
 - Serialization/deserialization using Serde
 
+Current limitations: 
+The prototype uses a predefined character and fixed race/class selections. Users can inspect the available definitions and see calculated character statistics, but interactive character creation, data validation, and character saving are not yet implemented.
+
 ## Requirements
 
 - Windows 11
